@@ -1,4 +1,4 @@
-# sniffle
+# SNIFFLE
 
 ### Scope of Work
 Develop a DAO voting program using Anchor. This program should allow users to vote on proposals and display results. Optionally, implement "privacy" voting using Zero-Knowledge (ZK) proofs or verifiable compute. Reward points should be given to users for participation.
